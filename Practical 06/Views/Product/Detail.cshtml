@@ -1,0 +1,46 @@
+﻿@model ProductCatlog.Models.product
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Detail</title>
+</head>
+<body>
+
+
+    <div>
+
+        <img src="@Url.Content(Model.imgurl)" alt="@Model.name" height="400px" width="300px" /> <br /><br />
+
+
+        <table border="1">
+            <tr>
+                <th>Name</th>
+                <th>Qty</th>
+                <th>Price</th>
+                <th>Description</th>
+            </tr>
+           
+            
+                <tr>
+                    <td> <p>name : @Model.name</p></td>
+                    <td> <p>Qty : @Model.qty</p></td>
+                    <td> <p>Price : @Model.price</p></td>
+                    <td> <p>Description : @Model.description</p></td>
+                </tr>
+            
+        </table>
+
+        <br />
+
+        @Html.ActionLink("Back" , "Index" , "Product")
+
+
+    </div>
+</body>
+</html>

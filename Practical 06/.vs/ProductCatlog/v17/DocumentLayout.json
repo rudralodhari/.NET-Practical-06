@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rudra\\Documents\\CE\\sem 5\\.NET\\LABS\\LAB 6\\Practical 06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A379D168-4399-4222-868C-DF176E6D50E5}|ProductCatlog.csproj|c:\\users\\rudra\\documents\\ce\\sem 5\\.net\\labs\\lab 6\\practical 06\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A379D168-4399-4222-868C-DF176E6D50E5}|ProductCatlog.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A379D168-4399-4222-868C-DF176E6D50E5}|ProductCatlog.csproj|C:\\Users\\rudra\\Documents\\CE\\sem 5\\.NET\\LABS\\LAB 6\\Practical 06\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A379D168-4399-4222-868C-DF176E6D50E5}|ProductCatlog.csproj|solutionrelative:views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A379D168-4399-4222-868C-DF176E6D50E5}|ProductCatlog.csproj|C:\\Users\\rudra\\Documents\\CE\\sem 5\\.NET\\LABS\\LAB 6\\Practical 06\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A379D168-4399-4222-868C-DF176E6D50E5}|ProductCatlog.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A379D168-4399-4222-868C-DF176E6D50E5}|ProductCatlog.csproj|C:\\Users\\rudra\\Documents\\CE\\sem 5\\.NET\\LABS\\LAB 6\\Practical 06\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A379D168-4399-4222-868C-DF176E6D50E5}|ProductCatlog.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A379D168-4399-4222-868C-DF176E6D50E5}|ProductCatlog.csproj|C:\\Users\\rudra\\Documents\\CE\\sem 5\\.NET\\LABS\\LAB 6\\Practical 06\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A379D168-4399-4222-868C-DF176E6D50E5}|ProductCatlog.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A379D168-4399-4222-868C-DF176E6D50E5}|ProductCatlog.csproj|C:\\Users\\rudra\\Documents\\CE\\sem 5\\.NET\\LABS\\LAB 6\\Practical 06\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A379D168-4399-4222-868C-DF176E6D50E5}|ProductCatlog.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\rudra\\Documents\\CE\\sem 5\\.NET\\LABS\\LAB 6\\Practical 06\\Views\\Product\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\rudra\\Documents\\CE\\sem 5\\.NET\\LABS\\LAB 6\\Practical 06\\Views\\Product\\Detail.cshtml",
+              "RelativeToolTip": "Views\\Product\\Detail.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-22T02:50:41.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\rudra\\Documents\\CE\\sem 5\\.NET\\LABS\\LAB 6\\Practical 06\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\rudra\\Documents\\CE\\sem 5\\.NET\\LABS\\LAB 6\\Practical 06\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T03:08:55.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\rudra\\Documents\\CE\\sem 5\\.NET\\LABS\\LAB 6\\Practical 06\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\rudra\\Documents\\CE\\sem 5\\.NET\\LABS\\LAB 6\\Practical 06\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAswDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T02:51:39.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "product.cs",
+              "DocumentMoniker": "C:\\Users\\rudra\\Documents\\CE\\sem 5\\.NET\\LABS\\LAB 6\\Practical 06\\Models\\product.cs",
+              "RelativeDocumentMoniker": "Models\\product.cs",
+              "ToolTip": "C:\\Users\\rudra\\Documents\\CE\\sem 5\\.NET\\LABS\\LAB 6\\Practical 06\\Models\\product.cs",
+              "RelativeToolTip": "Models\\product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T02:48:20.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rudra\\Documents\\CE\\sem 5\\.NET\\LABS\\LAB 6\\Practical 06\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rudra\\Documents\\CE\\sem 5\\.NET\\LABS\\LAB 6\\Practical 06\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-08T02:49:10.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\rudra\\Documents\\CE\\sem 5\\.NET\\LABS\\LAB 6\\Practical 06\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\rudra\\Documents\\CE\\sem 5\\.NET\\LABS\\LAB 6\\Practical 06\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T02:54:43.707Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

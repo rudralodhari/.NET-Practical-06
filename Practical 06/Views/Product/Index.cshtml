@@ -1,0 +1,37 @@
+﻿@model List<ProductCatlog.Models.product>
+                         
+
+ 
+@{ 
+    Layout = null; 
+}
+
+
+
+
+
+<div>
+
+
+    <table border="1">
+        <tr>
+            <th>Name</th>
+            <th>Qty</th>
+            <th>Price</th>
+            <th>Action</th>
+        </tr>
+        @foreach (var P in Model)
+        {
+            <tr>
+                <td> <p>name : @P.name</p></td>
+                <td> <p>Qty : @P.qty</p></td>
+                <td> <p>price : @P.price</p></td>
+
+                <td> @Html.ActionLink("More Detail", "Detail", "Product", new { id = P.id }, null)</td>
+            </tr>
+        }
+    </table>
+
+
+</div>
+<hr />
